@@ -26,7 +26,6 @@ Manual G-code generation in CNC machining is prone to errors and inefficiencies,
 - **Machine Learning Models**: Convolutional Neural Networks (CNNs), Generative AI models
 - **CNC Simulation**: Validation of G-code efficiency using CNC simulators
 
-## Getting Started
 
 ### Prerequisites
 
@@ -37,9 +36,8 @@ Manual G-code generation in CNC machining is prone to errors and inefficiencies,
 
 ### Usage
 
-1. Access the web interface by navigating to `http://localhost:5000` in your web browser.
-2. Upload a 2D design image.
-3. Receive the generated G-code for CNC machining.
+1. Upload a 2D design image.
+2. Receive the generated G-code for CNC machining.
 
 ## Results
 
